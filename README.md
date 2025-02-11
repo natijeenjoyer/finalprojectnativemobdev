@@ -4,11 +4,16 @@ A simple yet effective habit tracking application built using SwiftUI. This app 
 
 🚀 Features
 
-✅ Add, Edit & Delete Habits - Users can create new habits, edit existing ones, and remove habits they no longer need.✅ Habit Streak Tracking - Tracks how many consecutive days a habit has been completed.✅ Dynamic UI Updates - The app updates in real time when users modify their habits.✅ Intuitive UI/UX - Designed using a Navy & Gold theme for an elegant look and feel.✅ Persistent Storage - Uses UserDefaults to save user habits, ensuring data is retained after the app is closed.✅ CRUD Operations - Full implementation of Create, Read, Update, and Delete functionalities.✅ SwiftUI Navigation - Utilizes NavigationView and sheet for seamless navigation between screens.
+✅ Add, Edit & Delete Habits - Users can create new habits, edit existing ones, and remove habits they no longer need.
+✅ Habit Streak Tracking - Tracks how many consecutive days a habit has been completed.
+✅ Dynamic UI Updates - The app updates in real time when users modify their habits.
+✅ Intuitive UI/UX - Designed using a Navy & Gold theme for an elegant look and feel.
+✅ Persistent Storage - Uses UserDefaults to save user habits, ensuring data is retained after the app is closed.
+✅ CRUD Operations - Full implementation of Create, Read, Update, and Delete functionalities.✅ SwiftUI Navigation - Utilizes NavigationView and sheet for seamless navigation between screens.
 
 📸 Screenshots
 
-📷 Insert screenshots here
+there will be screenshots... or not :D
 
 🛠️ Technologies Used
 
